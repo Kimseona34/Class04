@@ -37,9 +37,9 @@
       <recent name="C:\Users\김선아\oss_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookArray">
-    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap4.BookArray" />
+  <component name="RunManager" selected="Application.AccessEx">
+    <configuration name="AccessEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4.AccessEx" />
       <module name="Class04" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap4.Circle1" />
+    <configuration name="ArrayParameterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4.ArrayParameterEx" />
       <module name="Class04" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap4.Circle3" />
+    <configuration name="CalcEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4.CalcEx" />
       <module name="Class04" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap4.CircleArray" />
+    <configuration name="GarbageEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4.GarbageEx" />
       <module name="Class04" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap4.Rectangle" />
+    <configuration name="StaticMember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4.StaticMember" />
       <module name="Class04" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookArray" />
-        <item itemvalue="Application.CircleArray" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Circle3" />
-        <item itemvalue="Application.Circle1" />
+        <item itemvalue="Application.AccessEx" />
+        <item itemvalue="Application.StaticMember" />
+        <item itemvalue="Application.CalcEx" />
+        <item itemvalue="Application.GarbageEx" />
+        <item itemvalue="Application.ArrayParameterEx" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632655953125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1632657388199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632657388199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +149,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
